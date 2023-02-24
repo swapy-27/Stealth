@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Stealth/static/css/main.5a02a347.css",
+    "main.js": "/Stealth/static/js/main.232a97d3.js",
+    "static/media/wp7367659.webp": "/Stealth/static/media/wp7367659.e3652da1ba3de7c02562.webp",
+    "static/media/best-moist-chocolate-cake-1.jpg": "/Stealth/static/media/best-moist-chocolate-cake-1.dafb67c37ffae01209fa.jpg",
+    "static/media/logo192.png": "/Stealth/static/media/logo192.49f3936d6106052d1c6f.png",
+    "index.html": "/Stealth/index.html",
+    "main.5a02a347.css.map": "/Stealth/static/css/main.5a02a347.css.map",
+    "main.232a97d3.js.map": "/Stealth/static/js/main.232a97d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a02a347.css",
+    "static/js/main.232a97d3.js"
+  ]
+}
